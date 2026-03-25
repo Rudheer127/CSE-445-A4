@@ -11,7 +11,7 @@
 
 <!-- ERROR 1: Root element renamed from NationalParks to NationalPark -->
 <NationalPark xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-              xsi:noNamespaceSchemaLocation="Your XSD URL">
+              xsi:noNamespaceSchemaLocation="https://rudheer127.github.io/CSE-445-A4/NationalParks.xsd">
 
   <!-- 1. Grand Canyon -->
   <NationalPark Rating="4.9">
