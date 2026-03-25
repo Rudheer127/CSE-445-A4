@@ -2,7 +2,6 @@
 <NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                xsi:noNamespaceSchemaLocation="https://rudheer127.github.io/CSE-445-A4/NationalParks.xsd">
 
-  <!-- 1. Grand Canyon (example from assignment) -->
   <NationalPark Rating="4.9">
     <Name>Grand Canyon</Name>
     <Phone>928-638-7496</Phone>
@@ -17,7 +16,6 @@
     </Address>
   </NationalPark>
 
-  <!-- 2. Yellowstone -->
   <NationalPark Rating="4.8">
     <Name>Yellowstone</Name>
     <Phone>307-344-7381</Phone>
@@ -31,10 +29,10 @@
     </Address>
   </NationalPark>
 
-  <!-- 3. Yosemite -->
   <NationalPark Rating="4.9">
     <Name>Yosemite</Name>
     <Phone>209-372-0200</Phone>
+    <Phone>209-379-2220</Phone>
     <Address NearestAirport="Fresno Yosemite">
       <Number>9000</Number>
       <Street>Yosemite Valley</Street>
@@ -44,7 +42,6 @@
     </Address>
   </NationalPark>
 
-  <!-- 4. Zion -->
   <NationalPark Rating="4.8">
     <Name>Zion</Name>
     <Phone>435-772-3256</Phone>
@@ -58,10 +55,10 @@
     </Address>
   </NationalPark>
 
-  <!-- 5. Rocky Mountain (no Rating) -->
   <NationalPark>
     <Name>Rocky Mountain</Name>
     <Phone>970-586-1206</Phone>
+    <Phone>970-586-1399</Phone>
     <Address NearestAirport="Denver">
       <Number>1000</Number>
       <Street>US Highway 36</Street>
@@ -71,10 +68,10 @@
     </Address>
   </NationalPark>
 
-  <!-- 6. Olympic -->
   <NationalPark Rating="4.7">
     <Name>Olympic</Name>
     <Phone>360-565-3130</Phone>
+    <Phone>360-565-3131</Phone>
     <Address NearestAirport="Seattle-Tacoma">
       <Number>3002</Number>
       <Street>Mount Angeles Road</Street>
@@ -84,7 +81,6 @@
     </Address>
   </NationalPark>
 
-  <!-- 7. Glacier (no Rating) -->
   <NationalPark>
     <Name>Glacier</Name>
     <Phone>406-888-7800</Phone>
@@ -98,10 +94,10 @@
     </Address>
   </NationalPark>
 
-  <!-- 8. Acadia -->
   <NationalPark Rating="4.8">
     <Name>Acadia</Name>
     <Phone>207-288-3338</Phone>
+    <Phone>207-288-8800</Phone>
     <Address NearestAirport="Bangor">
       <Number>25</Number>
       <Street>Visitor Center Road</Street>
@@ -111,7 +107,6 @@
     </Address>
   </NationalPark>
 
-  <!-- 9. Great Smoky Mountains (no Rating) -->
   <NationalPark>
     <Name>Great Smoky Mountains</Name>
     <Phone>865-436-1200</Phone>
@@ -125,10 +120,10 @@
     </Address>
   </NationalPark>
 
-  <!-- 10. Joshua Tree -->
   <NationalPark Rating="4.6">
     <Name>Joshua Tree</Name>
     <Phone>760-367-5500</Phone>
+    <Phone>760-367-5501</Phone>
     <Address NearestAirport="Palm Springs">
       <Number>74485</Number>
       <Street>National Park Drive</Street>
@@ -138,7 +133,6 @@
     </Address>
   </NationalPark>
 
-  <!-- 11. Bryce Canyon -->
   <NationalPark Rating="4.9">
     <Name>Bryce Canyon</Name>
     <Phone>435-834-5322</Phone>
